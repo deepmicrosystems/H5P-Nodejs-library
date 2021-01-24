@@ -19,7 +19,7 @@ const log = new Logger('initMongo');
  * @returns the MongoDB client
  */
 export default async (
-    url?: string = "3.82.129.95:27017",
+    url?: string = "http://3.82.129.95:27017",
     db?: string = "admin",
     user?: string = "dbAdmin",
     password?: string = "PerroReactRammsteinDb"
