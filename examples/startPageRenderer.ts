@@ -22,11 +22,11 @@ export default function render(
             <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js" crossorigin="anonymous"></script>
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css" crossorigin="anonymous">
-            <title>H5P NodeJs Demo</title>
+            <title>H5P NodeJs Demo from MASTER</title>
         </head>
         <body>
             <div class="container">
-                <h1>H5P NodeJs Demo</h1>
+                <h1>H5P NodeJs Demo from MASTER</h1>
                 <div class="alert alert-warning">This demo is for debugging and demonstration purposes only and not suitable for production use!</div>                
                 <h2>
                     <span class="fa fa-file"></span> Existing content
